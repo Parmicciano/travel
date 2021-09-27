@@ -1,0 +1,890 @@
+{
+    "pageCount": 2,
+    "totalResult": 22,
+    "items": [{
+        "offerId": "7934150005443050903",
+        "minPrice": 1375,
+        "comfort": "3*",
+        "coupDeCoeur": true,
+        "url": "/hotel-fun-island-resort-spa/maldives-male-56503.html#7934150005443050903",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-fun-island-resort---spa_469861_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/chambre-fun-island-resort---spa_469863_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-fun-island-resort---spa_469866_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-fun-island-resort---spa_469867_pghd.jpg"],
+        "lesPlus": ["Activités nautiques sur la plage de sable blanc", "Le lagon infini de l'île ", "Discothèque au bar principal"],
+        "logement": {
+            "id": 56503,
+            "title": "Hôtel Fun Island Resort & Spa"
+        },
+        "reduction": {
+            "percent": 24
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 1049,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.0-18065-5.svg",
+            "globalMark": 4.0
+        },
+        "information": "Vols + Hôtel + Pension Complète",
+        "tanf": false,
+        "nombreDeJours": "8",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Espace bien être", "Club de plongée", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 18 nuits",
+        "nbConsultations": "11 personnes regardent cette offre",
+        "pensionTxt": "All Inclusive",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1408970",
+        "minPrice": 1380,
+        "comfort": "4*",
+        "coupDeCoeur": true,
+        "url": "/hotel-the-barefoot-eco-hotel/maldives-hanimaadhoo-58536.html#1408970",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Maldives (Hanimaadhoo)",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/plage-the-barefoot-eco-hotel_522510_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/plage-the-barefoot-eco-hotel_520214_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/plage-the-barefoot-eco-hotel_527313_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-the-barefoot-eco-hotel_520216_pghd.jpg"],
+        "lesPlus": ["Structure touristique écologique", "Accès direct à la plage", "Hôtel calme et confortable"],
+        "logement": {
+            "id": 58536,
+            "title": "Hôtel The Barefoot Eco Hotel"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 655,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Petit Déjeuner",
+        "tanf": false,
+        "nombreDeJours": "9",
+        "nombreDeNuits": "7",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Accueil enfants", "Espace bien être", "Club de plongée", "Piscine", "Durée du transfert", "Chambres climatisées", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 13 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1039019",
+        "minPrice": 2277,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-kudafushi-resort-spa/maldives-male-54100.html#1039019",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-kudafushi-resort---spa-_440688_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-kudafushi-resort---spa-_440688_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/piscine-kudafushi-resort---spa-_440691_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/autres-kudafushi-resort---spa-_440689_pghd.jpg"],
+        "lesPlus": ["La grande piscine", "La formule tout inclus", "Séjour sur la plage en Beach Villa"],
+        "logement": {
+            "id": 54100,
+            "title": "Hôtel Kudafushi Resort & Spa"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 745,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Tout inclus",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Espace bien être", "Club de plongée", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "886212",
+        "minPrice": 1316,
+        "comfort": "4*",
+        "coupDeCoeur": false,
+        "url": "/hotel-summer-island/maldives-male-42276.html#886212",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/-fictif--summer-island_304730_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/-fictif--summer-island_304730_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/-fictif--summer-island_304731_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/-fictif--summer-island_304732_pghd.jpg"],
+        "lesPlus": ["Sur l'ile de Ziyaaraifushi", "Au cœur d'une végétation tropicale", "Détente intense au bord de l'eau"],
+        "logement": {
+            "id": 42276,
+            "title": "Hôtel Summer Island"
+        },
+        "reduction": {
+            "amount": 114
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 649,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Demi Pension",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Piscine", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1138525",
+        "minPrice": 2371,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-riu-palace-maldivas/maldives-male-55995.html#1138525",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-riu-palace-maldivas_522562_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-riu-palace-maldivas_522562_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/terrasse-riu-palace-maldivas_522560_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-riu-palace-maldivas_522561_pghd.jpg"],
+        "lesPlus": ["Idéal pour la détente", "Belle plage", "Nombreuses activités nautiques"],
+        "logement": {
+            "id": 55995,
+            "title": "Hôtel Riu Palace Maldivas"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 433,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Tout inclus",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Accueil enfants", "Espace bien être", "Piscine", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1279603",
+        "minPrice": 1130,
+        "comfort": "4*",
+        "coupDeCoeur": false,
+        "url": "/hotel-malahini-kuda-bandos-resort/maldives-male-57369.html#1279603",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-malahini-kuda-bandos-resort_522654_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-malahini-kuda-bandos-resort_522654_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-malahini-kuda-bandos-resort_522647_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-malahini-kuda-bandos-resort_522649_pghd.jpg"],
+        "lesPlus": ["Idéal en famille ou en couple", "Nombreuses activités", "Grand confort et respect de la nature"],
+        "logement": {
+            "id": 57369,
+            "title": "Hôtel Malahini Kuda Bandos Resort"
+        },
+        "reduction": {
+            "percent": 27
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 846,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.0-18065-5.svg",
+            "globalMark": 4.0
+        },
+        "information": "Vols + Transferts + Hôtel + Demi Pension",
+        "tanf": false,
+        "nombreDeJours": "8",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "953490",
+        "minPrice": 2437,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-sun-aqua-vilu-reef/maldives-male-43178.html#953490",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/piscine-sun-aqua-vilu-reef_522740_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/piscine-sun-aqua-vilu-reef_522740_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/-fictif--sun-aqua-vilu-reef_313145_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/-fictif--sun-aqua-vilu-reef_313146_pghd.jpg"],
+        "lesPlus": ["Face à la barrière de corail", "Hôtel convivial et très animé", "Idéal pour les couples et les familles "],
+        "logement": {
+            "id": 43178,
+            "title": "Hôtel Sun Aqua Vilu Reef"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 1932,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Tout inclus",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Accueil enfants", "Piscine", "Durée du transfert", "Chambres climatisées", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1434010005443050403",
+        "minPrice": 1384,
+        "comfort": "4*",
+        "coupDeCoeur": false,
+        "url": "/hotel-the-barefoot-eco-hotel/maldives-male-41986.html#1434010005443050403",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/plage-the-barefoot-eco-hotel_393696_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/piscine-the-barefoot-eco-hotel_411262_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-the-barefoot-eco-hotel_303413_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-the-barefoot-eco-hotel_354188_pghd.jpg"],
+        "lesPlus": ["Concept éco-responsable unique", "Situé sur une île locale", "Interaction avec les habitants"],
+        "logement": {
+            "id": 41986,
+            "title": "Hôtel The Barefoot Eco Hotel"
+        },
+        "reduction": {
+            "percent": 22
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 655,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Hôtel + Demi Pension",
+        "tanf": false,
+        "nombreDeJours": "8",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Espace bien être", "Club de plongée", "Piscine", "Chambres climatisées", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 18 nuits",
+        "pensionTxt": "Pension Complète",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "5448070005443050103",
+        "minPrice": 1454,
+        "comfort": "4*",
+        "coupDeCoeur": false,
+        "url": "/hotel-adaaran-club-rannalhi/maldives-male-50083.html#5448070005443050103",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-adaaran-club-rannalhi_380205_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/chambre-adaaran-club-rannalhi_380207_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-adaaran-club-rannalhi_380205_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/autres-adaaran-club-rannalhi_203223_pghd.jpg"],
+        "lesPlus": ["Atoll de South Male", "Spot de plongée sous-marine", "Bungalows modernes"],
+        "logement": {
+            "id": 50083,
+            "title": "Hôtel Adaaran Club Rannalhi"
+        },
+        "reduction": {
+            "amount": 274
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 3291,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Hôtel + All Inclusive",
+        "tanf": false,
+        "nombreDeJours": "8",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Club de plongée", "Piscine", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 18 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1531617",
+        "minPrice": 1536,
+        "comfort": "4*",
+        "coupDeCoeur": false,
+        "url": "/hotel-malahini-kuda-bandos-resort/maldives-male-58854.html#1531617",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/chambre-malahini-kuda-bandos-resort_400561_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/plage-malahini-kuda-bandos-resort_526031_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-malahini-kuda-bandos-resort_526017_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-malahini-kuda-bandos-resort_525997_pghd.jpg"],
+        "specialOffer": "VOS AVANTAGES PLEIN VENT \r",
+        "lesPlus": ["Un transfert de moins de 10 minutes en bateau", "Les chambres bien équipées", "Les nombreuses activités proposées"],
+        "logement": {
+            "id": 58854,
+            "title": "Hôtel Malahini Kuda Bandos Resort"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 846,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.0-18065-5.svg",
+            "globalMark": 4.0
+        },
+        "information": "Vols + Transferts + Hôtel + Demi Pension",
+        "tanf": false,
+        "nombreDeJours": "6",
+        "nombreDeNuits": "4",
+        "dureeTxt": "Durées disponibles : de 4 à 13 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "598744",
+        "minPrice": 1251,
+        "comfort": "3*",
+        "coupDeCoeur": false,
+        "url": "/hotel-the-barefoot-eco-hotel/maldives-hanimaadhoo-43760.html#598744",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Maldives (Hanimaadhoo)",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/kayak_318595_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/kayak_318595_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/facade-the-barefoot-eco-hotel_318591_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/plage-the-barefoot-eco-hotel_318587_pghd.jpg"],
+        "lesPlus": ["Concept éco-responsable unique", "Situé sur une île locale", "Interaction avec les habitants"],
+        "logement": {
+            "id": 43760,
+            "title": "Hôtel The Barefoot Eco Hotel"
+        },
+        "reduction": {
+            "amount": 100
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 655,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Petit Déjeuner",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Espace bien être", "Club de plongée", "Piscine", "Chambres climatisées", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "243187",
+        "minPrice": 1350,
+        "comfort": "4*",
+        "coupDeCoeur": false,
+        "url": "/hotel-bandos-maldives/maldives-male-21747.html#243187",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/piscine-bandos-maldives_472692_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/piscine-bandos-maldives_472692_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-bandos-maldives_472688_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-bandos-maldives_472689_pghd.jpg"],
+        "lesPlus": ["Proche de la plage", "Des chambres confortables", "Idéal pour un séjour en famille"],
+        "logement": {
+            "id": 21747,
+            "title": "Hôtel Bandos Maldives"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 3465,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Petit Déjeuner",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Accueil enfants", "Espace bien être", "Piscine", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "242625",
+        "minPrice": 1522,
+        "comfort": "4*",
+        "coupDeCoeur": false,
+        "url": "/hotel-medhufushi-island-resort/maldives-male-21719.html#242625",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/plage-medhufushi-island-resort_144204_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/plage-medhufushi-island-resort_144204_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/plage-medhufushi-island-resort_144200_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/ile_144189_pghd.jpg"],
+        "lesPlus": ["Situé sur un atoll paradisiaque", "Hôtel aux prestations haut de gamme", "Calme et détente "],
+        "logement": {
+            "id": 21719,
+            "title": "Hôtel Medhufushi Island Resort"
+        },
+        "reduction": {
+            "amount": 387
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 1047,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.0-18065-5.svg",
+            "globalMark": 4.0
+        },
+        "information": "Vols + Transferts + Hôtel + Pension Complète",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Espace bien être", "Club de plongée", "Piscine", "Durée du transfert", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1461505",
+        "minPrice": 1539,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-sun-island-resort-spa/maldives-male-58745.html#1461505",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/piscine-sun-island-resort---spa_522487_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/piscine-sun-island-resort---spa_484431_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/plage-sun-island-resort---spa_484427_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-sun-island-resort---spa_484422_pghd.jpg"],
+        "specialOffer": "VOS AVANTAGES PLEIN VENT\r",
+        "lesPlus": ["Accès direct sur la plage aux eaux turquoise", "Chambres spacieuses", "Nombreuses activités sur l'île"],
+        "logement": {
+            "id": 58745,
+            "title": "Hôtel Sun Island Resort & Spa"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 4741,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Demi Pension",
+        "tanf": false,
+        "nombreDeJours": "9",
+        "nombreDeNuits": "7",
+        "caracteristiques": ["Accès plage", "Espace bien être", "Club de plongée", "Piscine", "Mobilité réduite", "Durée du transfert", "Chambres climatisées", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 13 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1285184",
+        "minPrice": 1764,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-nika-island-resort-spa/maldives-male-47285.html#1285184",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-nika-island-resort---spa_349391_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-nika-island-resort---spa_349391_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-nika-island-resort---spa_522761_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-nika-island-resort---spa_522760_pghd.jpg"],
+        "lesPlus": ["Accès direct sur la plage", "Idéal pour se ressourcer", "Centre de spa (payant)"],
+        "logement": {
+            "id": 47285,
+            "title": "Hôtel Nika Island Resort & Spa"
+        },
+        "reduction": {
+            "amount": 175
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 816,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Pension Complète",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Espace bien être", "Club de plongée", "Durée du transfert", "Chambres climatisées", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "242352",
+        "minPrice": 1771,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-kurumba-maldives/maldives-male-21705.html#242352",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/plage-kurumba-maldives_367043_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/plage-kurumba-maldives_367043_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-kurumba-maldives_522829_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-kurumba-maldives_522830_pghd.jpg"],
+        "lesPlus": ["Sur une île de sable fin", "Nombreuses activités pour toute la famille", "Chambres avec vue sur le lagon"],
+        "logement": {
+            "id": 21705,
+            "title": "Hôtel Kurumba Maldives"
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 4947,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/5.0-18065-5.svg",
+            "globalMark": 5.0
+        },
+        "information": "Vols + Transferts + Hôtel + Petit Déjeuner",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Accueil enfants", "Espace bien être", "Club de plongée", "Piscine", "Durée du transfert", "Chambres climatisées", "Chambres famille nombreuse"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "1018560",
+        "minPrice": 2010,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-drift-thelu-veliga-retreat/maldives-male-53693.html#1018560",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-drift-thelu-veliga-retreat_434502_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-drift-thelu-veliga-retreat_434502_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/plage-drift-thelu-veliga-retreat_434498_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-drift-thelu-veliga-retreat_444754_pghd.jpg"],
+        "lesPlus": ["Île paradisiaque", "Atmosphère intimiste", "Belles prestations"],
+        "logement": {
+            "id": 53693,
+            "title": "Hôtel Drift Thelu Veliga Retreat"
+        },
+        "reduction": {
+            "amount": 371
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 322,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Demi Pension",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Equipe d'animation", "Espace bien être", "Club de plongée", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "242562",
+        "minPrice": 2166,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-coco-palm-bodu-hithi/maldives-male-21716.html#242562",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-coco-palm-bodu-hithi_444724_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-coco-palm-bodu-hithi_444724_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/chambre-coco-palm-bodu-hithi_444734_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/terrasse-coco-palm-bodu-hithi_522777_pghd.jpg"],
+        "lesPlus": ["Situé dans l'atoll de Malé", "Villas spacieuses", "Piscine à disposition"],
+        "logement": {
+            "id": 21716,
+            "title": "Hôtel Coco Palm Bodu Hithi"
+        },
+        "reduction": {
+            "amount": 384
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 1726,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+            "globalMark": 4.5
+        },
+        "information": "Vols + Transferts + Hôtel + Petit Déjeuner",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Piscine", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "242247",
+        "minPrice": 2535,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-constance-halaveli-resort/maldives-male-21700.html#242247",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/piscine-constance-halaveli-resort_444667_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/piscine-constance-halaveli-resort_444667_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-constance-halaveli-resort_444664_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/plage-constance-halaveli-resort_444665_pghd.jpg"],
+        "lesPlus": ["Situé sur un atoll", "Villas avec piscine privée", "Au Spa, des soins sur mesure"],
+        "logement": {
+            "id": 21700,
+            "title": "Hôtel Constance Halaveli Resort"
+        },
+        "reduction": {
+            "percent": 30
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 1796,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/5.0-18065-5.svg",
+            "globalMark": 5.0
+        },
+        "information": "Vols + Transferts + Hôtel + Petit Déjeuner",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Accueil enfants", "Espace bien être", "Club de plongée", "Piscine", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }, {
+        "offerId": "243064",
+        "minPrice": 2699,
+        "comfort": "5*",
+        "coupDeCoeur": false,
+        "url": "/hotel-lily-beach-resort-spa/maldives-male-21741.html#243064",
+        "zone": "Maldives",
+        "city": "Male",
+        "libelleDestination": "Maldives - Male",
+        "urlImage": "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-lily-beach-resort---spa_506562_pghd.jpg",
+        "otherImages": ["https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-lily-beach-resort---spa_506610_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-lily-beach-resort---spa_506611_pghd.jpg", "https://static.promovacances.com/photos/vacances-maldives/male/vue-panoramique-lily-beach-resort---spa_506612_pghd.jpg"],
+        "lesPlus": ["Hôtel en formule tout inclus", "Nombreuses activités", "Calme et dépaysement"],
+        "logement": {
+            "id": 21741,
+            "title": "Hôtel Lily Beach Resort & Spa"
+        },
+        "reduction": {
+            "amount": 515
+        },
+        "tripAdvisorInformation": {
+            "numReviews": 3291,
+            "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/5.0-18065-5.svg",
+            "globalMark": 5.0
+        },
+        "information": "Vols + Transferts + Hôtel + Tout inclus",
+        "tanf": false,
+        "nombreDeJours": "7",
+        "nombreDeNuits": "5",
+        "caracteristiques": ["Accès plage", "Accueil enfants", "Espace bien être", "Club de plongée", "Piscine", "Durée du transfert", "Chambres climatisées"],
+        "dureeTxt": "Durées disponibles : de 5 à 14 nuits",
+        "isProduitFrance": false,
+        "alt": "Sejour - Maldives Male"
+    }],
+    "destination": {
+        "type": "ZONE",
+        "name": "Maldives",
+        "id": 2020,
+        "level": 2,
+        "parentName": "Océan indien et Pacifique",
+        "parentId": 2002
+    },
+    "searchFilters": {
+        "hostingTypeFilter": {
+            "queryStringKey": "hostingTypeIds",
+            "filterType": "SelectButtonType",
+            "value": {
+                "selectItems": [{
+                    "label": "Toutes les offres"
+                }, {
+                    "ids": ["266"],
+                    "label": "Campings"
+                }, {
+                    "ids": ["261"],
+                    "label": "Locations & résidences"
+                }, {
+                    "ids": ["259"],
+                    "label": "Hôtels & clubs"
+                }]
+            }
+        },
+        "filters": [{
+            "title": "Budget par personne",
+            "limitDisplayed": 5,
+            "queryStringKey": "priceRange",
+            "filterType": "RangeType",
+            "value": {
+                "from": 1130,
+                "to": 2000
+            }
+        }, {
+            "title": "Classifications",
+            "limitDisplayed": 5,
+            "queryStringKey": "hotelCategories",
+            "filterType": "SelectButtonType",
+            "value": {
+                "selectItems": [{
+                    "ids": ["1"],
+                    "label": "1*"
+                }, {
+                    "ids": ["2"],
+                    "label": "2*"
+                }, {
+                    "ids": ["3"],
+                    "label": "3*"
+                }, {
+                    "ids": ["4"],
+                    "label": "4*"
+                }, {
+                    "ids": ["5"],
+                    "label": "5*"
+                }]
+            }
+        }, {
+            "title": "Formules",
+            "limitDisplayed": 5,
+            "queryStringKey": "pensionTypes",
+            "filterType": "SelectBoxType",
+            "value": {
+                "selectItems": [{
+                    "ids": ["1"],
+                    "label": "All inclusive"
+                }, {
+                    "ids": ["6"],
+                    "label": "Pension complète"
+                }, {
+                    "ids": ["2"],
+                    "label": "Demi pension"
+                }, {
+                    "ids": ["4"],
+                    "label": "Petit dėjeuner"
+                }, {
+                    "ids": ["7"],
+                    "label": "Aucuns repas"
+                }]
+            }
+        }, {
+            "title": "Accès plage",
+            "limitDisplayed": 2,
+            "queryStringKey": "caracteristiqueIds",
+            "filterType": "SelectBoxType",
+            "value": {
+                "selectItems": [{
+                    "ids": ["3"],
+                    "label": "A proximité",
+                    "productsCount": 8
+                }, {
+                    "ids": ["2"],
+                    "label": "Pieds dans l'eau",
+                    "productsCount": 12
+                }]
+            }
+        }, {
+            "title": "Loisirs / animations",
+            "limitDisplayed": 5,
+            "queryStringKey": "caracteristiqueIds",
+            "filterType": "SelectBoxType",
+            "value": {
+                "selectItems": [{
+                    "ids": ["39"],
+                    "label": "Piscine extérieure chauffée",
+                    "productsCount": 1
+                }, {
+                    "ids": ["38"],
+                    "label": "Piscine extérieure non chauffée",
+                    "productsCount": 13
+                }, {
+                    "ids": ["34"],
+                    "label": "Animation non francophone",
+                    "productsCount": 1
+                }, {
+                    "ids": ["33"],
+                    "label": "Pas d'équipe d'animation",
+                    "productsCount": 9
+                }, {
+                    "ids": ["25"],
+                    "label": "Club de plongée a proximité",
+                    "productsCount": 8
+                }, {
+                    "ids": ["24"],
+                    "label": "Club de plongée dans l'hôtel",
+                    "productsCount": 5
+                }]
+            }
+        }, {
+            "title": "Enfants / ados",
+            "limitDisplayed": 5,
+            "queryStringKey": "caracteristiqueIds",
+            "filterType": "SelectBoxType",
+            "value": {
+                "selectItems": [{
+                    "ids": ["9"],
+                    "label": "Possibilité de babysitting",
+                    "productsCount": 5
+                }, {
+                    "ids": ["7"],
+                    "label": "Mini club",
+                    "productsCount": 6
+                }]
+            }
+        }, {
+            "title": "Tour opérateur",
+            "limitDisplayed": 5,
+            "queryStringKey": "fournisseursIds",
+            "filterType": "SelectBoxType",
+            "value": {
+                "selectItems": [{
+                    "ids": ["267"],
+                    "label": "Promosejours",
+                    "productsCount": 1
+                }, {
+                    "ids": ["177"],
+                    "label": "Exotismes",
+                    "productsCount": 15
+                }, {
+                    "ids": ["8"],
+                    "label": "Plein Vent",
+                    "productsCount": 3
+                }]
+            }
+        }, {
+            "title": "Choisir la région",
+            "limitDisplayed": 5,
+            "queryStringKey": "destinationZones",
+            "filterType": "ZoneHierarchieType",
+            "value": {
+                "selectItems": [{
+                    "zoneName": "Male",
+                    "id": "2021",
+                    "zoneChildren": [],
+                    "checked": false,
+                    "bold": true
+                }]
+            }
+        }]
+    },
+    "prevNext": {
+        "nextUrl": "https://www.promovacances.com/api/ajax/search?pageNumber=2"
+    },
+    "dernieresDemandes": {
+        "nomPays": "Maldives",
+        "demandes": [{
+            "formateDate": "A 13:35 hier",
+            "dateDemande": "29/04/2021",
+            "dateDepart": "05/07/2021",
+            "demande": {
+                "reference": 572344,
+                "urlSejour": "/hotel-summer-island/maldives-male-42276.html",
+                "dateDemande": "29/04/2021",
+                "dateDepart": "04/07/2021",
+                "nbPassagersAdultes": 2,
+                "nbPassagersEnfants": 0,
+                "montantTotalDossier": 4740,
+                "paysDestinationId": 146,
+                "paysDestination": "Maldives",
+                "nomLogement": "Summer Island",
+                "villeLogement": "Male",
+                "prixMinTTC": 1509,
+                "fournisseurId": 177
+            }
+        }, {
+            "formateDate": "A 13:26 hier",
+            "dateDemande": "29/04/2021",
+            "dateDepart": "05/07/2021",
+            "demande": {
+                "reference": 1461505,
+                "urlSejour": "/hotel-sun-island-resort-spa/maldives-male-58745.html",
+                "dateDemande": "29/04/2021",
+                "dateDepart": "04/07/2021",
+                "nbPassagersAdultes": 2,
+                "nbPassagersEnfants": 0,
+                "montantTotalDossier": 3999,
+                "paysDestinationId": 146,
+                "paysDestination": "Maldives",
+                "nomLogement": "Sun Island Resort & Spa",
+                "villeLogement": "Male",
+                "prixMinTTC": 1539,
+                "fournisseurId": 8
+            }
+        }, {
+            "formateDate": "A 13:22 hier",
+            "dateDemande": "29/04/2021",
+            "dateDepart": "05/07/2021",
+            "demande": {
+                "reference": 1279617,
+                "urlSejour": "/hotel-malahini-kuda-bandos-resort/maldives-male-57369.html#1279617",
+                "dateDemande": "29/04/2021",
+                "dateDepart": "04/07/2021",
+                "nbPassagersAdultes": 2,
+                "nbPassagersEnfants": 0,
+                "montantTotalDossier": 3190,
+                "paysDestinationId": 146,
+                "paysDestination": "Maldives",
+                "nomLogement": "Malahini Kuda Bandos Resort",
+                "villeLogement": "Male",
+                "prixMinTTC": 1266,
+                "fournisseurId": 267
+            }
+        }, {
+            "formateDate": "A 10:43 avant-hier",
+            "dateDemande": "28/04/2021",
+            "dateDepart": "06/12/2021",
+            "demande": {
+                "reference": 1284314,
+                "urlSejour": "/hotel-coco-palm-bodu-hithi/maldives-male-21716.html#1284314",
+                "dateDemande": "28/04/2021",
+                "dateDepart": "05/12/2021",
+                "nbPassagersAdultes": 2,
+                "nbPassagersEnfants": 0,
+                "montantTotalDossier": 10538,
+                "paysDestinationId": 146,
+                "paysDestination": "Maldives",
+                "nomLogement": "Coco Palm Bodu Hithi",
+                "villeLogement": "Male",
+                "prixMinTTC": 2456,
+                "fournisseurId": 177
+            }
+        }]
+    }
+}
